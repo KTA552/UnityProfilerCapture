@@ -1,0 +1,2 @@
+# UnityProfilerfCapture
+UnityのProfilerの情報を取得する機能を保持したツール
